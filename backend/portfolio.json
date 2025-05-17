@@ -36,7 +36,7 @@
     "exchangeCode": "LTIM"
   },
   {   
-    "sector": "consumer",
+    "sector": "Consumer",
     "name": "Dmart",
     "purchasePrice": 3777,
     "quantity": 27,
@@ -45,7 +45,7 @@
     "exchangeCode": "DMART"
   },
   {
-    "sector": "pipe sector",
+    "sector": "Pipe Sector",
     "name": "Astral",
     "purchasePrice": 1517,
     "quantity": 56,
