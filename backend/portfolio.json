@@ -1,0 +1,56 @@
+[
+  {
+    "sector": "Financial Sector",
+    "name": "HDFC Bank",
+    "purchasePrice": 1490,
+    "quantity": 50,
+    "investment": 74500,
+    "portfolioPercent": 5,
+    "exchangeCode": "HDFCBANK"
+  },
+  {
+    "sector": "Financial Sector",
+    "name": "Bajaj Finance",
+    "purchasePrice": 6466,
+    "quantity": 15,
+    "investment": 96990,
+    "portfolioPercent": 6,
+    "exchangeCode": "BAJFINANCE"
+  },                   
+  {
+    "sector": "Tech Sector",
+    "name": "Affle India",
+    "purchasePrice": 1151,
+    "quantity": 50,
+    "investment": 57550,
+    "portfolioPercent": 4,
+    "exchangeCode": "AFFLE"
+  },
+  {
+    "sector": "Tech Sector",
+    "name": "LTI Mindtree",
+    "purchasePrice": 4775,
+    "quantity": 16,
+    "investment": 76400,
+    "portfolioPercent": 5,
+    "exchangeCode": "LTIM"
+  },
+  {   
+    "sector": "consumer",
+    "name": "Dmart",
+    "purchasePrice": 3777,
+    "quantity": 27,
+    "investment": 101979,
+    "portfolioPercent": 7,
+    "exchangeCode": "DMART"
+  },
+  {
+    "sector": "pipe sector",
+    "name": "Astral",
+    "purchasePrice": 1517,
+    "quantity": 56,
+    "investment": 84952,
+    "portfolioPercent": 6,
+    "exchangeCode": "ASTRAL"
+  }
+]
